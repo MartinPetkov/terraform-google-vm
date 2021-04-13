@@ -2,6 +2,15 @@
 
 All notable changes to this project will be documented in this file. See [conventional-commits](https://www.conventionalcommits.org/) for commit guidelines.
 
+## [6.3.0](https://www.github.com/terraform-google-modules/terraform-google-vm/compare/v6.2.0...v6.3.0) (2021-04-13)
+
+
+### Features
+
+* Add confidential compute flags ([#131](https://www.github.com/terraform-google-modules/terraform-google-vm/issues/131)) ([615c8bc](https://www.github.com/terraform-google-modules/terraform-google-vm/commit/615c8bce7e9ceb9e0ab6eca7f1e32ae615c7ab12))
+* Add min_cpu_platform variable support ([#161](https://www.github.com/terraform-google-modules/terraform-google-vm/issues/161)) ([49829e8](https://www.github.com/terraform-google-modules/terraform-google-vm/commit/49829e88c6ffa546725dd70cd63513f48a166f4a))
+* Add support for guest_accelerator for the instance_template module ([#160](https://www.github.com/terraform-google-modules/terraform-google-vm/issues/160)) ([a535e13](https://www.github.com/terraform-google-modules/terraform-google-vm/commit/a535e131a8611ac7fe9ff409496c5c9d25865c6e))
+
 ## [6.2.0](https://www.github.com/terraform-google-modules/terraform-google-vm/compare/v6.1.0...v6.2.0) (2021-03-15)
 
 
